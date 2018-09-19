@@ -1,2 +1,2 @@
 This is just a matlab code for calculating the volume of non-spherical particles in DEM simulations
-Since I used two-sppheres clustered particles, here I only calculate this kind of geometry.
+Since I used two-spheres clustered particles, here I only calculate this kind of geometry.
